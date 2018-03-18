@@ -10,4 +10,4 @@ Alguns dos textos e exemplos de código desde repositório são traduções do l
 
 ## Recursos
 
-[TODO]
+* [Learning React Book Code](https://github.com/MoonHighway/learning-react)
