@@ -1,4 +1,4 @@
-# React Puro
+# Introdução React
 
 Esta parte é baseada no Capítulo 4 do livro *Learning React*. O objetivo é entender o que está acontecendo nos bastidores de um programa escrito em React.
 
