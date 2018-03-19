@@ -1,0 +1,18 @@
+{
+  "name": "aprendendo-react-native",
+  "version": "1.0.0",
+  "description": "Aprendendo React Native - Engenharia de Software - Católica SC",
+  "main": "index.js",
+  "repository": "git@github.com:catolicasc-mobile/aprendendo-react-native.git",
+  "author": "Alan R. Fachini (alan.fachini@catolicasc.org.br)",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.19.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0"
+  }
+}
